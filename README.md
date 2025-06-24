@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+This is My profile page. 
+For the actual profile page, please visit [profile](https://johnkim9887.github.io/JohnKim9887.io/).
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
